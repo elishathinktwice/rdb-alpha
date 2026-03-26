@@ -203,3 +203,5 @@ mkdir assets
 cd assets
 mkdir images
 cd images
+touch background.jgp
+touch background.jpg
