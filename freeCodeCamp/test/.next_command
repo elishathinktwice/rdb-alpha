@@ -63,3 +63,4 @@ ls --color=auto
 more READ.md
 more README.md
 __vsc_prompt_cmd_original
+ls --color=auto
