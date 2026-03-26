@@ -219,3 +219,4 @@ find -name footer.jpeg
 __vsc_prompt_cmd_original
 mv ./images/footer.jpeg ./client/assets/images
 find
+rmdir ./images
