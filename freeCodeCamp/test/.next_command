@@ -238,3 +238,33 @@ mv ./CodeRoad.svg ./client/assets/icons
 mv ./freeCodeCamp.svg ./client/assets/icons
 find
 mkdir ./client/assets/fonts
+touch roboto.bold.woff ./client/assets/fonts
+touch ./client/assets/fonts/roboto.bold.woff
+touch ./client/assets/fonts roboto.bold.woff
+mkdir ./client/assets/fonts roboto.bold.woff
+find
+rm ./roboto.bold.woff
+find
+ls --color=auto
+cd client
+ls --color=auto
+cd assests
+cd assets
+ls --color=auto
+cd fonts
+ls --color=auto
+rm roboto.bold.woff
+touch roboto.bold.woff
+rm roboto.bold.woff
+ls --color=auto
+cd ../..
+cd ..
+touch ./client/assets/fonts roboto.bold.woff
+find -name roboto.bold.wolf
+touch ./client/assets/fonts/roboto.bold.woff
+find -name roboto.bold.wolf
+__vsc_prompt_cmd_original
+find
+rm ./roboto.bold.woff
+touch ./client/assets/fonts/roboto.bold.woff
+touch client/assets/fonts/roboto-bold.woff
