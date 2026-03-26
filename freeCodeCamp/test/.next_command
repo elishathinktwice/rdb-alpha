@@ -292,3 +292,15 @@ mkdir server.js
 rm server.js
 touch server
 touch server.js
+find
+rm ./server.js
+rm --help
+rm --dir server.js
+ls --color=auto
+rm server
+mkdir README.md
+rm README.md
+rm --dir README.md
+touch README.MD
+rm README.MD
+touch README.md
