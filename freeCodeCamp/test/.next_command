@@ -220,3 +220,7 @@ __vsc_prompt_cmd_original
 mv ./images/footer.jpeg ./client/assets/images
 find
 rmdir ./images
+cd images
+ls --color=auto
+cd ..
+rm ./images/background.jpg
