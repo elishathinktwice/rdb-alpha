@@ -320,3 +320,4 @@ ls --color=auto
 rm README
 more README.md
 cd ..
+ls --color=auto
