@@ -277,3 +277,4 @@ ls --color=auto client/assets/fonts
 find fonts
 find client
 find client/assets/fonts
+touch client/assets/fonts/lato-bold.ttf
