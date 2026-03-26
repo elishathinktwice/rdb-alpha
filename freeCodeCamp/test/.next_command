@@ -319,3 +319,4 @@ echo for the freeCodeCamp bash lessons >> README.md
 ls --color=auto
 rm README
 more README.md
+cd ..
