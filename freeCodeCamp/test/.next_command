@@ -305,3 +305,4 @@ touch README.MD
 rm README.MD
 touch README.md
 ls --color=auto
+echo Yay!
