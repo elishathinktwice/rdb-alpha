@@ -270,3 +270,10 @@ touch ./client/assets/fonts/roboto.bold.woff
 touch client/assets/fonts/roboto-bold.woff
 find
 touch client/assets/fonts/roboto-light.woff
+find -name client/assets/fonts
+find
+pwd client/assets/fonts
+ls --color=auto client/assets/fonts
+find fonts
+find client
+find client/assets/fonts
