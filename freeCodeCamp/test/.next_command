@@ -181,3 +181,4 @@ cd website
 ls --color=auto
 find
 mv lato.ttf fonts
+mv menlo.otf fonts
