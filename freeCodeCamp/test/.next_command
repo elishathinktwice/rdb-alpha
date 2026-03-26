@@ -288,3 +288,7 @@ rm -r ./fonts
 ls --color=auto
 mkdir package.jso
 mv package.jso package.json
+mkdir server.js
+rm server.js
+touch server
+touch server.js
