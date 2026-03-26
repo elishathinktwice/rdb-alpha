@@ -321,3 +321,4 @@ rm README
 more README.md
 cd ..
 ls --color=auto
+mv website website-boilerplate
