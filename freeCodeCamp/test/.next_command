@@ -286,3 +286,5 @@ rm -r
 rm -R
 rm -r ./fonts
 ls --color=auto
+mkdir package.jso
+mv package.jso package.json
